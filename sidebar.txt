@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oog:home|Door43 (oog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oog|d43-oog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oog/archive/master.zip|d43-oog.zip]]
+
+**Recent Changes**
+{{changes>ns = oog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oog|Ethnologue data]]
+
